@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"><!--for media Queries-->
+    <title>Title goes Here</title>
+  
+    <!--below is a script which allows IE 8 to understand HTML 5 elements.-->
+    <!--[if lt IE 9]>
+      <script>
+        var elementsArray = ['abbr', 'article', 'aside', 'audio', 'bdi', 'canvas', 'data', 'datalist', 'details', 'figcaption', 'figure', 'footer', 'header', 'main', 'mark', 'meter', 'nav', 'output', 'progress', 'section', 'summary', 'template', 'time', 'video'];
+        var len = elementsArray.length;
+        for(i = 0; i < len; i++){
+        document.createElement(elementsArray[i]);
+       }
+      </script>
+    <![endif]-->
+
+    <!--CSS style sheets are here-->
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+  <div id="wrapper">
+    <header>
+      <h1> This is a test of github</h1>
+    </header>
+    <main>
+      <p>I have no idea what I'm doing.</p>
+    </main>
+    <footer>teeheehee this is embarrassing</footer>
+  </div>
+  </body>
+</html>
