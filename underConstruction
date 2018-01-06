@@ -12,11 +12,13 @@
   </head>
   <body>
   	<header>
-  		<h1>Welcome to Custom Creative Websites by Emily Lewis</h1>
+  		<h1>Custom Creative Websites by Emily Lewis</h1>
   	</header>
   	<main>
-  		<p>This website is under construction. Please come back later to see content by Emily Lewis. </p>
-		<p>if you would like to contact Emily, please email her at emily.lewis@customcreativewebsites.com</p>
+	    <h2>Welcome!</h2>
+  		<p>Hello, my name is Emily. I really hate to say this, but unfortunately my website is currently under construction. Please come back later to see my custom content.</p>
+		<p>If you would like to contact me, please email me at <a href="mailto:emily.lewis@customcreativewebsites.com">emily.lewis@customcreativewebsites.com</a>.</p>
+		<p>You can also follow me on social media: <a href=https://www.facebook.com/">Facebook</a>.
   	</main>
 	<footer>
 	  <p>Emily Lewis &copy; 2018</p>
