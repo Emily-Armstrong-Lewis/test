@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang=en>
   <head>
-    <title>Coding is Fun!</title>
+    <title>Custom Creative Websites by Emily Lewis</title>
     <link rel="stylesheet" href="css/main.css">
 	  <meta charset="UTF-8">
 	  <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -16,6 +16,10 @@
   	</header>
   	<main>
   		<p>This website is under construction. Please come back later to see content by Emily Lewis. </p>
+		<p>if you would like to contact Emily, please email her at emily.lewis@customcreativewebsites.com</p>
   	</main>
+	<footer>
+	  <p>Emily Lewis &copy; 2018</p>
+	</footer>
   </body>
 </html>
