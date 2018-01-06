@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Coding is Fun!</title>
+    <link rel="stylesheet" href="css/main.css">
+	  <meta charset="UTF-8">
+	  <meta http-equiv="x-ua-compatible" content="ie=edge">
+	  <meta name="description" content="coding examples">
+	  <meta name="keywords" content=" HTML, CSS, JAVASCRIPT, JQUERY">
+	  <meta name="author" content="Emily Lewis">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+  	<header>
+  		<h1>Welcome to Custom Creative Websites by Emily Lewis</h1>
+  	</header>
+  	<main>
+  		<p>This website is under construction. Please come back later to see content by Emily Lewis. </p>
+  	</main>
+  </body>
+</html>
