@@ -18,7 +18,8 @@
 	    <h2>Welcome!</h2>
   		<p>Hello, my name is Emily. I really hate to say this, but unfortunately my website is currently under construction. Please come back later to see my custom content.</p>
 		<p>If you would like to contact me, please email me at <a href="mailto:emily.lewis@customcreativewebsites.com">emily.lewis@customcreativewebsites.com</a>.</p>
-		<p>You can also follow me on social media: <a href=https://www.facebook.com/">Facebook</a>.
+		<p>You can also follow me on social media: <a href=https://www.facebook.com/">Facebook</a>.</p>
+		<!--fix facebook address, add twitter, add github-->
   	</main>
 	<footer>
 	  <p>Emily Lewis &copy; 2018</p>
