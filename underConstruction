@@ -2,13 +2,20 @@
 <html lang=en>
   <head>
     <title>Custom Creative Websites by Emily Lewis</title>
-    <link rel="stylesheet" href="css/main.css">
 	  <meta charset="UTF-8">
 	  <meta http-equiv="x-ua-compatible" content="ie=edge">
 	  <meta name="description" content="coding examples">
 	  <meta name="keywords" content=" HTML, CSS, JAVASCRIPT, JQUERY">
 	  <meta name="author" content="Emily Lewis">
 	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <link rel="stylesheet" href="css/main.css">
+	  <style>
+	    body{
+	      background-color: #272B83;
+	      margin: 0 auto;
+	      padding:0;
+	    }
+	  </style>
   </head>
   <body>
   	<header>
@@ -18,8 +25,7 @@
 	    <h2>Welcome!</h2>
   		<p>Hello, my name is Emily. I really hate to say this, but unfortunately my website is currently under construction. Please come back later to see my custom content.</p>
 		<p>If you would like to contact me, please email me at <a href="mailto:emily.lewis@customcreativewebsites.com">emily.lewis@customcreativewebsites.com</a>.</p>
-		<p>You can also follow me on social media: <a href=https://www.facebook.com/">Facebook</a>.</p>
-		<!--fix facebook address, add twitter, add github-->
+		<p>You can also follow me on social media: <a href="https://www.facebook.com/Custom-Creative-Websites-by-Emily-Lewis-578189972519707/">Facebook</a>, <a href="https://www.twitter.com/Emily_Jo_Lewis">Twitter</a> and <a href="https://www.github.com/EmilyJoLewis">Github</a>.</p>
   	</main>
 	<footer>
 	  <p>Emily Lewis &copy; 2018</p>
